@@ -1,4 +1,5 @@
-#function 
+#function
+# function ek block of code hota hai jo specific task perform karta hai. Python me built-in functions hote hain jo predefined hote hain aur hum unhe directly use kar sakte hain. Kuch common built-in functions hain: 
 #print().....output how
 #input().....user se data
 #type().....datatype btata hai
