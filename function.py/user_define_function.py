@@ -9,7 +9,7 @@ greet("vishakha patidar") #output: Hello, vishakha patidar. How are you?
 greet("neelam patidar") #output: Hello, neelam patidar. How are you?
 greet("divya patidar") #output: Hello, divya patidar. How are you?
 greet("neelam rajput") #output: Hello, neelam rajput. How are you?
-
+ 
 #function with return statement(return value)
 def add(a, b):
     return a + b
